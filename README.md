@@ -15,8 +15,8 @@ Refer to the tutorial for installing Google Chrome Extensions: [Add extensions](
 ## Features
 
 - Retrieve Decklog login authorization
-- Support for Decklog [JP](decklog.bushiroad.com) and [EN](decklog-en.bushiroad.com) websites
-- Usable on the [BottleNeko](bottleneko.app) website
+- Support for Decklog [JP](https://decklog.bushiroad.com) and [EN](https://decklog-en.bushiroad.com) websites
+- Usable on the [BottleNeko](https://bottleneko.app) website
 
 ## Steps
 
