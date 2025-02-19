@@ -1,6 +1,8 @@
 # Decklog-Cookie-Retriever
 
-![icon](icon.png)
+<div style="text-align:center">
+<img src="icon.png" width="250" />
+</div>
 
 ## Installation
 
