@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Decklog Cookie Retriever",
+  "version": "1.0",
+  "permissions": ["cookies", "tabs", "activeTab", "storage"],
+  "host_permissions": [
+    "https://decklog.bushiroad.com/*",
+    "https://decklog-en.bushiroad.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
